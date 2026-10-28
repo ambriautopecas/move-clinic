@@ -1,0 +1,1 @@
+Animation libraries bundled locally: GSAP 3.13.0, p5.js 1.11.3, Three.js 0.180.0. Downloaded from the corresponding versioned npm packages via jsDelivr. See the adjacent license files.

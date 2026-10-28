@@ -1,0 +1,19 @@
+{
+  "generator": "Built-in image_gen",
+  "kind": "Illustrative AI images; not actual Move Clinic patients, staff or facilities",
+  "assets": [
+    "pilates-editorial",
+    "pilates-equilibrio",
+    "fisioterapia-editorial",
+    "facial-editorial",
+    "pilates-fortalecimento"
+  ],
+  "originals": "Original source images preserved under CODEX_HOME/generated_images; responsive WebP derivatives in dist/assets",
+  "prompts": [
+    "Professional editorial Pilates seated stretch on wooden reformer in warm ivory studio, woman in muted lavender, realistic anatomy, natural daylight, no logos or text.",
+    "Professional editorial standing Pilates balance with ring, adult woman in lavender, warm ivory studio, realistic anatomy, no logos or text.",
+    "Professional editorial supported knee movement in physiotherapy, fictional therapist and patient, olive and lavender colors, natural light, no logos or text.",
+    "Professional editorial gentle facial moisturizing, mature fictional patient, ivory and lavender setting, natural skin texture, no logos or text.",
+    "Illustrative editorial photograph of a woman in lilac lying on a wooden Pilates reformer performing controlled footwork, warm ivory and sage studio, natural light, realistic anatomy, no text or logos."
+  ]
+}

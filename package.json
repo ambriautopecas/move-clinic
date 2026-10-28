@@ -1,0 +1,10 @@
+{
+  "name": "move-clinic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional da Move Clinic",
+  "scripts": {
+    "start": "node scripts/preview.cjs",
+    "version:assets": "node scripts/version-assets.cjs"
+  }
+}
