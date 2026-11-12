@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /Downloads/
+Disallow: /index%20copy.html
+
+Sitemap: https://moveclinic.com.br/sitemap.xml
